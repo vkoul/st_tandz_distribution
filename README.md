@@ -1,1 +1,1 @@
-# st_tandz_distribution
+# 📦 [t and z distribution](https://tandzdistribution.streamlit.app/)
