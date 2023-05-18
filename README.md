@@ -1,1 +1,1 @@
-# 📦 [t and z distribution](https://tandzdistribution.streamlit.app/)
+# 📦 [t and z distribution App](https://tandzdistribution.streamlit.app/)
